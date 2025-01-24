@@ -12,7 +12,8 @@ DURATION:4 WEEKS
 
 MENTOR:NELLA SANTOSH
 
-Data Analysis Report Generator
+**Data Analysis Report Generator**
+
 This project is a Jupyter Notebook script that generates a PDF report analyzing data from a CSV file. It leverages the FPDF library for creating the PDF and the csv module to process and summarize the data.
 
 Features
