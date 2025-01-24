@@ -85,3 +85,4 @@ Academic research.
 Summarizing tabular data for presentations.
 
 *OUTPUT*:
+![Image](https://github.com/user-attachments/assets/4af3293c-3378-4a20-9337-779075bd7ec2)
